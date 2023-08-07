@@ -1,0 +1,220 @@
+CRITICAL - 2023-04-22 12:19:49 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Login.php(40): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:21:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Login.php(40): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:21:43 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Login.php(40): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:21:44 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Login.php(40): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:21:44 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Login.php(40): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 12:21:44 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/Login.php(40): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->check_login()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 14:12:40 --> Call to undefined function App\Controllers\random_string()
+in APPPATH/Controllers/Register.php on line 55.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Register->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-22 14:14:18 --> Call to undefined function App\Controllers\random_string()
+in APPPATH/Controllers/Register.php on line 55.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Register->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-22 14:17:19 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-22 14:17:19 --> Invalid email address: "admin"
+Invalid email address: "admin"
+220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Sun, 23 Apr 2023 00:17:19 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-8BITMIME
+250-SIZE 67108864
+250-DSN
+250-ETRN
+250-STARTTLS
+250-DELIVERBY
+250 HELP
+
+from: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+The following SMTP error was encountered: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-22 14:17:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-22 14:17:51 --> Invalid email address: "admin"
+Invalid email address: "admin"
+220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Sun, 23 Apr 2023 00:17:51 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-8BITMIME
+250-SIZE 67108864
+250-DSN
+250-ETRN
+250-STARTTLS
+250-DELIVERBY
+250 HELP
+
+from: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+The following SMTP error was encountered: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-22 14:22:17 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-22 14:22:17 --> Invalid email address: "admin"
+Invalid email address: "admin"
+220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Sun, 23 Apr 2023 00:22:17 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-8BITMIME
+250-SIZE 67108864
+250-DSN
+250-ETRN
+250-STARTTLS
+250-DELIVERBY
+250 HELP
+
+from: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+The following SMTP error was encountered: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-22 14:23:09 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-22 14:23:09 --> Invalid email address: "admin"
+Invalid email address: "admin"
+220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Sun, 23 Apr 2023 00:23:09 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-8BITMIME
+250-SIZE 67108864
+250-DSN
+250-ETRN
+250-STARTTLS
+250-DELIVERBY
+250 HELP
+
+from: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+The following SMTP error was encountered: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-22 14:25:34 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-22 14:25:34 --> Invalid email address: "admin"
+Invalid email address: "admin"
+220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Sun, 23 Apr 2023 00:25:34 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-8BITMIME
+250-SIZE 67108864
+250-DSN
+250-ETRN
+250-STARTTLS
+250-DELIVERBY
+250 HELP
+
+from: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+The following SMTP error was encountered: 553 5.5.4 <admin>... Domain name required for sender address admin
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-22 15:03:23 --> mysqli_sql_exception: Duplicate entry 'kluo1304@gmail.com' for key 'email_verify.PRIMARY' in /var/www/htdocs/index/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/index/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/index/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/index/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/index/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/index/app/Models/User_model.php(64): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/index/app/Controllers/Register.php(56): App\Models\User_model->email_verify()
+#6 /var/www/htdocs/index/system/CodeIgniter.php(934): App\Controllers\Register->index()
+#7 /var/www/htdocs/index/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/index/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/index/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-22 15:03:23 --> Duplicate entry 'kluo1304@gmail.com' for key 'email_verify.PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/User_model.php(64): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Register.php(56): App\Models\User_model->email_verify()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Register->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-22 15:10:01 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`user_data`.`users`, CONSTRAINT `email` FOREIGN KEY (`email`) REFERENCES `email_verify` (`email`) ON DELETE CASCADE ON UPDATE CASCADE) in /var/www/htdocs/index/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/index/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/index/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/index/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/index/system/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/index/app/Models/User_model.php(51): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/htdocs/index/app/Controllers/Register.php(42): App\Models\User_model->register()
+#6 /var/www/htdocs/index/system/CodeIgniter.php(934): App\Controllers\Register->index()
+#7 /var/www/htdocs/index/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/index/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/index/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-22 15:10:01 --> Cannot add or update a child row: a foreign key constraint fails (`user_data`.`users`, CONSTRAINT `email` FOREIGN KEY (`email`) REFERENCES `email_verify` (`email`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/User_model.php(51): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH/Controllers/Register.php(42): App\Models\User_model->register()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Register->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

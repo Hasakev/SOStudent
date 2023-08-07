@@ -1,0 +1,372 @@
+CRITICAL - 2023-04-17 02:13:55 --> Undefined global variable $_SESSION
+in APPPATH/Controllers/ProfileController.php on line 11.
+ 1 APPPATH/Controllers/ProfileController.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:14:56 --> Undefined global variable $_SESSION
+in APPPATH/Controllers/ProfileController.php on line 12.
+ 1 APPPATH/Controllers/ProfileController.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:15:59 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 13.
+ 1 APPPATH/Controllers/ProfileController.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:16:01 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 13.
+ 1 APPPATH/Controllers/ProfileController.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:16:02 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 13.
+ 1 APPPATH/Controllers/ProfileController.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:16:02 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 13.
+ 1 APPPATH/Controllers/ProfileController.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:17:36 --> Undefined global variable $_SESSION
+in APPPATH/Controllers/ProfileController.php on line 11.
+ 1 APPPATH/Controllers/ProfileController.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:17:37 --> Undefined global variable $_SESSION
+in APPPATH/Controllers/ProfileController.php on line 11.
+ 1 APPPATH/Controllers/ProfileController.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:18:06 --> Undefined global variable $_SESSION
+in APPPATH/Controllers/ProfileController.php on line 11.
+ 1 APPPATH/Controllers/ProfileController.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:18:45 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 14.
+ 1 APPPATH/Controllers/ProfileController.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:19:06 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 14.
+ 1 APPPATH/Controllers/ProfileController.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:19:07 --> Undefined array key "isLoggedIn"
+in APPPATH/Controllers/ProfileController.php on line 14.
+ 1 APPPATH/Controllers/ProfileController.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:25:48 --> Undefined array key "username"
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(11): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:30:27 --> The route for "https://infs3202-e717fd19.uqcloud.net/index/login" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 60.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(60): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(880): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/ProfileController.php(16): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:40:41 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH/Controllers/ProfileController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:40:46 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH/Controllers/ProfileController.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:51:32 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:51:50 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:51:51 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:51:52 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:52:22 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:52:22 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:52:23 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:52:23 --> Undefined variable $check
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:56:34 --> Undefined variable $name
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 02:57:03 --> Undefined variable $name
+in APPPATH/Views/profile.php on line 4.
+ 1 APPPATH/Views/profile.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/profile.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:39:33 --> Unclosed '{' on line 4
+in APPPATH/Controllers/ChangeDetails.php on line 9.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(892): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:40:44 --> Undefined variable $error
+in APPPATH/Views/change_user.php on line 8.
+ 1 APPPATH/Views/change_user.php(8): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/change_user.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ChangeDetails.php(8): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangeDetails->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:40:56 --> Undefined variable $error
+in APPPATH/Views/change_user.php on line 8.
+ 1 APPPATH/Views/change_user.php(8): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/change_user.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ChangeDetails.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangeDetails->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:40:57 --> Undefined variable $error
+in APPPATH/Views/change_user.php on line 8.
+ 1 APPPATH/Views/change_user.php(8): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/change_user.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ChangeDetails.php(9): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangeDetails->index()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 07:41:03 --> view(): Argument #2 ($data) must be of type array, string given, called in /var/www/htdocs/index/app/Controllers/ChangeDetails.php on line 9
+in SYSTEMPATH/Common.php on line 1172.
+ 1 APPPATH/Controllers/ChangeDetails.php(9): view()
+ 2 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangeDetails->index()
+ 3 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-17 09:20:13 --> Invalid file: "change_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/ChangeDetails.php(10): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangeDetails->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 09:58:58 --> mysqli_sql_exception: Unknown column 'kluo1' in 'field list' in /var/www/htdocs/index/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/index/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/index/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/index/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/index/system/Database/BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/index/app/Models/User_model.php(80): CodeIgniter\Database\BaseBuilder->replace()
+#5 /var/www/htdocs/index/app/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+#6 /var/www/htdocs/index/system/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+#7 /var/www/htdocs/index/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/index/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/index/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-17 09:58:58 --> Unknown column 'kluo1' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/User_model.php(80): CodeIgniter\Database\BaseBuilder->replace()
+ 3 APPPATH/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 10:04:57 --> mysqli_sql_exception: Unknown column 'first' in 'field list' in /var/www/htdocs/index/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/index/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/index/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/index/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/index/system/Database/BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/index/app/Models/User_model.php(80): CodeIgniter\Database\BaseBuilder->replace()
+#5 /var/www/htdocs/index/app/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+#6 /var/www/htdocs/index/system/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+#7 /var/www/htdocs/index/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/index/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/index/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-17 10:04:57 --> Unknown column 'first' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2397): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/User_model.php(80): CodeIgniter\Database\BaseBuilder->replace()
+ 3 APPPATH/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 10:07:00 --> mysqli_sql_exception: Unknown column 'first' in 'field list' in /var/www/htdocs/index/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/index/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/index/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/index/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/index/system/Database/BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/index/app/Models/User_model.php(81): CodeIgniter\Database\BaseBuilder->update()
+#5 /var/www/htdocs/index/app/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+#6 /var/www/htdocs/index/system/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+#7 /var/www/htdocs/index/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/index/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/index/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-17 10:07:00 --> Unknown column 'first' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/User_model.php(81): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-17 10:07:44 --> mysqli_sql_exception: Unknown column 'first' in 'field list' in /var/www/htdocs/index/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /var/www/htdocs/index/system/Database/MySQLi/Connection.php(295): mysqli->query()
+#1 /var/www/htdocs/index/system/Database/BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/htdocs/index/system/Database/BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/htdocs/index/system/Database/BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/htdocs/index/app/Models/User_model.php(81): CodeIgniter\Database\BaseBuilder->update()
+#5 /var/www/htdocs/index/app/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+#6 /var/www/htdocs/index/system/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+#7 /var/www/htdocs/index/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/htdocs/index/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/htdocs/index/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-04-17 10:07:44 --> Unknown column 'first' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 645.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2476): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/User_model.php(81): CodeIgniter\Database\BaseBuilder->update()
+ 3 APPPATH/Controllers/ChangePassword.php(42): App\Models\User_model->change_details()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ChangePassword->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

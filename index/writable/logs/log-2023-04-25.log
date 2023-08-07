@@ -1,0 +1,816 @@
+CRITICAL - 2023-04-25 05:38:47 --> Undefined variable $error
+in APPPATH/Views/reset_password.php on line 13.
+ 1 APPPATH/Views/reset_password.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/reset_password.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/PasswordController.php(78): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_password()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 05:39:39 --> Undefined variable $message
+in APPPATH/Views/reset_password.php on line 14.
+ 1 APPPATH/Views/reset_password.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/reset_password.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/PasswordController.php(85): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_password()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 05:39:42 --> Undefined variable $message
+in APPPATH/Views/reset_password.php on line 14.
+ 1 APPPATH/Views/reset_password.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/reset_password.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/PasswordController.php(85): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_password()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-25 05:51:05 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:51:05 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:51:05 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:51:07 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:51:07 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:51:07 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:51:09 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:51:09 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:51:09 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:41 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:41 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:41 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:42 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:42 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:42 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:43 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:43 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:43 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:48 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:48 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:48 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:49 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:49 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:49 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:51 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:51 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:52 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:52 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:52 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:53 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:53 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:53 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:54 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:54 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:54 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:55 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:55 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:55 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:57 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:57 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:57 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:54:58 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:54:58 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:54:58 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:55:00 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:55:00 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:55:00 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:55:01 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:55:01 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:55:01 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:55:02 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:55:02 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:55:02 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:27 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:27 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:27 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:27 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:27 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:27 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:27 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:27 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:27 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:28 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:28 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:28 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:28 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:28 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:28 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:28 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:28 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:28 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:29 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:29 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:29 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:29 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:29 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:29 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:30 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:30 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:30 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:30 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:30 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:30 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:30 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:30 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:30 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:30 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:30 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:30 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:31 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:31 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:31 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:31 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:31 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:31 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:32 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:32 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:32 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:32 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:32 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:32 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:33 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:33 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:33 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:33 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:33 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:33 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:33 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:33 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:33 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:34 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:34 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:34 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:34 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:34 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:34 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:35 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:35 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:35 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:35 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:35 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:35 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:36 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:36 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:36 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:36 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:36 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:36 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:37 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:37 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:37 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:37 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:37 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:37 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:38 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:38 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:38 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:38 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:38 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:38 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:39 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:39 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:39 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:39 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:39 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:39 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:39 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:39 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:39 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:40 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:40 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:40 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:40 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+ERROR - 2023-04-25 05:56:41 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-25 05:56:41 --> 220 mailhub.eait.uq.edu.au ESMTP Sendmail 8.15.1/8.15.1; Tue, 25 Apr 2023 15:56:41 +1000 (AEST)
+
+hello: 250-mailhub.eait.uq.edu.au Hello infs3202-e717fd19.zones.eait.uq.edu.au [172.23.82.200], pleased to meet you
+250 ENHANCEDSTATUSCODES
+
+from: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+The following SMTP error was encountered: 452 4.3.0 Connection rate limit exceeded (4/min)
+
+quit: 221 2.0.0 mailhub.eait.uq.edu.au closing connection
+
+CRITICAL - 2023-04-25 07:36:34 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/PasswordController.php(97): CodeIgniter\Model->__call()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:24:30 --> Undefined variable $error
+in APPPATH/Views/change_pass_reset.php on line 13.
+ 1 APPPATH/Views/change_pass_reset.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/change_pass_reset.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/PasswordController.php(111): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:38:48 --> preg_match(): Argument #2 ($subject) must be of type string, array given
+in SYSTEMPATH/Validation/Validation.php on line 287.
+ 1 SYSTEMPATH/Validation/Validation.php(287): preg_match()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/PasswordController.php(111): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:39:44 --> preg_match(): Argument #2 ($subject) must be of type string, array given
+in SYSTEMPATH/Validation/Validation.php on line 287.
+ 1 SYSTEMPATH/Validation/Validation.php(287): preg_match()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/PasswordController.php(111): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:39:44 --> preg_match(): Argument #2 ($subject) must be of type string, array given
+in SYSTEMPATH/Validation/Validation.php on line 287.
+ 1 SYSTEMPATH/Validation/Validation.php(287): preg_match()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/PasswordController.php(111): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:39:45 --> preg_match(): Argument #2 ($subject) must be of type string, array given
+in SYSTEMPATH/Validation/Validation.php on line 287.
+ 1 SYSTEMPATH/Validation/Validation.php(287): preg_match()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/PasswordController.php(111): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:39:45 --> preg_match(): Argument #2 ($subject) must be of type string, array given
+in SYSTEMPATH/Validation/Validation.php on line 287.
+ 1 SYSTEMPATH/Validation/Validation.php(287): preg_match()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/PasswordController.php(111): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:39:45 --> preg_match(): Argument #2 ($subject) must be of type string, array given
+in SYSTEMPATH/Validation/Validation.php on line 287.
+ 1 SYSTEMPATH/Validation/Validation.php(287): preg_match()
+ 2 SYSTEMPATH/Validation/Validation.php(170): CodeIgniter\Validation\Validation->processRules()
+ 3 SYSTEMPATH/Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH/Controllers/PasswordController.php(111): CodeIgniter\Controller->validate()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:46:36 --> Too few arguments to function App\Controllers\PasswordController::forgot_verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/PasswordController.php on line 95.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:46:38 --> Too few arguments to function App\Controllers\PasswordController::forgot_verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/PasswordController.php on line 95.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:46:41 --> Too few arguments to function App\Controllers\PasswordController::forgot_verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/PasswordController.php on line 95.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:57:57 --> Call to undefined function App\Controllers\change_password_through_forgot()
+in APPPATH/Controllers/PasswordController.php on line 98.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:58:08 --> Undefined variable $code
+in APPPATH/Views/change_pass_reset.php on line 3.
+ 1 APPPATH/Views/change_pass_reset.php(3): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/change_pass_reset.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/PasswordController.php(127): view()
+ 6 APPPATH/Controllers/PasswordController.php(98): App\Controllers\PasswordController->change_password_through_forgot()
+ 7 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 8 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 08:58:12 --> Undefined variable $code
+in APPPATH/Views/change_pass_reset.php on line 3.
+ 1 APPPATH/Views/change_pass_reset.php(3): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/change_pass_reset.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/PasswordController.php(127): view()
+ 6 APPPATH/Controllers/PasswordController.php(98): App\Controllers\PasswordController->change_password_through_forgot()
+ 7 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 8 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 09:15:05 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/PasswordController.php(131): CodeIgniter\Model->__call()
+ 4 APPPATH/Controllers/PasswordController.php(98): App\Controllers\PasswordController->change_password_through_forgot()
+ 5 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\PasswordController->forgot_verify()
+ 6 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-25 12:56:19 --> Unclosed '{' on line 17
+in APPPATH/Views/profile.php on line 46.
+ 1 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/ProfileController.php(19): view()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

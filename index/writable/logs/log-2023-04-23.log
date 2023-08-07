@@ -1,0 +1,564 @@
+CRITICAL - 2023-04-23 05:39:08 --> Undefined variable $code
+in APPPATH/Views/errors/cli/error_404.php on line 5.
+ 1 APPPATH/Views/errors/cli/error_404.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/errors/cli/error_404.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 05:39:13 --> Undefined variable $code
+in APPPATH/Views/errors/cli/error_404.php on line 5.
+ 1 APPPATH/Views/errors/cli/error_404.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/errors/cli/error_404.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 05:40:51 --> Undefined variable $code
+in APPPATH/Views/errors/cli/error_404.php on line 5.
+ 1 APPPATH/Views/errors/cli/error_404.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/errors/cli/error_404.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1184): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/ProfileController.php(26): view()
+ 6 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 7 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:41:11 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:47 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:48 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:49 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:49 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:49 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:49 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:51 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:56:51 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 12:59:46 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:09 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:30 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:30 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:31 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:31 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:31 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:49 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:00:55 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:05:50 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:54:39 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 13:54:48 --> Too few arguments to function App\Controllers\ProfileController::verify(), 0 passed in /var/www/htdocs/index/system/CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH/Controllers/ProfileController.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 2 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:29 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:31 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:33 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:36 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:36 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:36 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:37 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:37 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:37 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:37 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:37 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:08:38 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:14 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:15 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:16 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:17 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:18 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:19 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:19 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:19 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:19 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:19 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:19 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:20 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:20 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:20 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:47 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:50 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:50 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:51 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:52 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:53 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:53 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:53 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:54 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-23 14:12:57 --> You must set the database table to be used with your query.
+in SYSTEMPATH/Database/BaseConnection.php on line 882.
+ 1 SYSTEMPATH/Model.php(642): CodeIgniter\Database\BaseConnection->table()
+ 2 SYSTEMPATH/Model.php(803): CodeIgniter\Model->builder()
+ 3 APPPATH/Controllers/ProfileController.php(33): CodeIgniter\Model->__get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\ProfileController->verify()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
