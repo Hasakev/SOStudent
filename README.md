@@ -1,6 +1,10 @@
 # SOStudent
 A student discussion board created in PHP using CI4 framework. 
 
+This app was created during INFS3202 - Web Information Systems course at UQ during 2023 Semester 1 - (February 2023 - June 2023). This project was developed in one month under a deep schedule (see ProjectProposal.pdf) This project received full marks. (45/45)
+
+You can find a deployed version here: [UQCloud](https://infs3202-e717fd19.uqcloud.net/)
+
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 - Backend: PHP, CodeIgniter 4
 - Database: MySQL
@@ -12,10 +16,6 @@ Many libraries were used, these include:
 - [Dropzone.js](https://www.dropzonejs.com/)
 - [Imagick](https://www.php.net/manual/en/book.imagick.php)
 - [Google reCAPTCHA](https://www.google.com/recaptcha/about/)
-
-This app was created during INFS3202 - Web Information Systems course at UQ during 2023 Semester 1 - (February 2023 - June 2023). This project was developed in one month under a deep schedule (see ProjectProposal.pdf) This project got full marks. (45/45)
-
-You can find a deployed version here: [UQCloud](https://infs3202-e717fd19.uqcloud.net/)
 
 ## Installation (Local)
 1. Clone the repository
