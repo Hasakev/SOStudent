@@ -1,7 +1,7 @@
 # SOStudent
 A student discussion board created in PHP using CI4 framework. 
 
-This app was created during INFS3202 - Web Information Systems course at UQ during 2023 Semester 1 - (February 2023 - June 2023). This project was developed in one month under a deep schedule (see [ProjectProposal.pdf](https://github.com/Hasakev/SOStudent/blob/main/ProjectProposal.pdf)) This project received full marks. (45/45)
+This app was created during INFS3202 - Web Information Systems course at UQ during 2023 Semester 1 - (February 2023 - June 2023). This project was developed in one month under a deep schedule (see [ProjectProposal.pdf](https://github.com/Hasakev/SOStudent/blob/main/ProjectProposal.pdf))
 
 You can find a deployed version here: [UQCloud](https://infs3202-e717fd19.uqcloud.net/)
 
@@ -21,15 +21,21 @@ Many libraries were used, these include:
 1. Clone the repository
 2. Download and install [XAMPP](https://www.apachefriends.org/index.html)
 3. Start Apache and MySQL in XAMPP
-4. Open phpMyAdmin and import the database file `SOSStudent.sql`
-5. Open the project folder in your IDE and run `php spark serve` in the terminal
-6. Open `localhost:8080` in your browser
+4. Open phpMyAdmin and import the database file `user_data.sql`, ensure database is called `user_data`.
+5. Fix index/Config/App.php to "localhost:8080":
+6. Fix index/Config/Database.php to match your local database
+7. Open the project folder in your IDE and run `php spark serve` in the terminal
+8. Open `localhost:8080` in your browser
 
 ## Deploying to UQCloud
 1. Clone the repository
-2. Save the repository in `var/www/htdocs/[index_directory]` folder in your UQCloud account
-3. Open phpMyAdmin and import the database file `SOSStudent.sql`
-4. Accessing https://infs3202-########.uqcloud.net/[index_directory] should now show the website
+2. Save the `index` folder in `var/www/htdocs` in your UQCloud account.
+3. Open phpMyAdmin and import the database file `user_data.sql`, ensure database is called `user_data`.
+4. Fix index/Config/App.php to match your UQCloud account
+5. Fix index/Config/Database.php to match your local database
+6. Accessing [https://infs3202-########.uqcloud.net/index]() should now show the website
+
+> You may rename the domain by changing the `index` folder name to your desired domain name. Then, you must change the index/Config/App.php to match the new domain name.
 
 ## Basic Features
 - Remember me: Users can choose to be remembered for 30 days
