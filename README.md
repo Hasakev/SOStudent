@@ -60,4 +60,4 @@ Many libraries were used, these include:
 - Search: Users can search for questions (JQuery)
 
 ## Advanced Features
-Recommendation System: Users are recommended questions based on their interests and previous questions they have viewed. (Self-developed algorithm)
+- Recommendation System: Users are recommended questions based on their interests and previous questions they have viewed. (Self-developed algorithm)
